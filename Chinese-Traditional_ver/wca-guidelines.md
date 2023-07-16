@@ -38,6 +38,7 @@
 - 1h++) [建議] 每個比賽項目的決賽以及每一輪的最少步數解都應該要讓所有參賽者使用相同的轉亂步驟（也就是只能有一組）。
 - 1h1+) [釐清] 在為了使比賽能順利進行下，才能讓轉亂員或裁判為與自己同一組的參賽者做轉亂或當裁判。
 - 1h1++) [釐清] 對於最少步數解，裁判可以在他完成該還原之前判同組參賽者（也就是裁判自己同時也在比賽）。
+- 1h1+++) [ADDITION] Competitors may request to compete at a time different to the scheduled time for the round in a separate group. The WCA Delegate should carefully consider the fairness and practicality of the situation before approving any such requests, and must ensure that such attempts follow [Regulation 9l](regulations:regulation:9l) (i.e. they must start after all competitors have finished their attempts from any previous round of the same event, and finish before any competitor has started an attempt for any following round of the same event). Competitors requesting such accommodations should contact the organization team and WCA Delegate before the competition. Exception: such accommodations are not permitted for 3x3x3 Fewest Moves, which specifies its own limited accommodations in [Guideline E2b++](guidelines:guideline:E2b++).
 
 
 ## <article-2><competitors><competitors> 第2章：參賽者
